@@ -1,7 +1,7 @@
-PWD c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 5
+PWD c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 6
 INPUT c:/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 5/Lernstandsübersicht_Klasse_5.tex
-OUTPUT Lernstandsübersicht_Klasse_5.log
+INPUT c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 6/Lernstandsübersicht_Klasse_6.tex
+OUTPUT Lernstandsübersicht_Klasse_6.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/ltluatex.lua
 INPUT c:/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-main.lua
@@ -251,9 +251,9 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.lua
-INPUT ./Lernstandsübersicht_Klasse_5.aux
-INPUT ./Lernstandsübersicht_Klasse_5.aux
-OUTPUT Lernstandsübersicht_Klasse_5.aux
+INPUT ./Lernstandsübersicht_Klasse_6.aux
+INPUT ./Lernstandsübersicht_Klasse_6.aux
+OUTPUT Lernstandsübersicht_Klasse_6.aux
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -271,9 +271,10 @@ INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
 INPUT C:/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc
-OUTPUT Lernstandsübersicht_Klasse_5.pdf
+OUTPUT Lernstandsübersicht_Klasse_6.pdf
 INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT C:/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
+INPUT C:/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bolditalic.luc
 INPUT C:/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
@@ -305,12 +306,17 @@ INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
-INPUT C:/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bolditalic.luc
 INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
 INPUT ../..//Wissensklub-Logo.png
-INPUT ./Lernstandsübersicht_Klasse_5.aux
+INPUT ../..//Wissensklub-Logo.png
+INPUT ../..//Wissensklub-Logo.png
+INPUT ../..//Wissensklub-Logo.png
+INPUT ../..//Wissensklub-Logo.png
+INPUT ../..//Wissensklub-Logo.png
+INPUT ../..//Wissensklub-Logo.png
+INPUT ./Lernstandsübersicht_Klasse_6.aux
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb

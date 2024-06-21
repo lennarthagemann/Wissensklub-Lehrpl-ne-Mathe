@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.10)  20 JUN 2024 12:19
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.10)  21 JUN 2024 12:51
  restricted system commands enabled.
  file:line:error style messages enabled.
-**"c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 5/Lernstandsübersicht_Klasse_5.tex"
-("c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 5/Lernstandsübersicht_Klasse_5.tex"
+**"c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 6/Lernstandsübersicht_Klasse_6.tex"
+("c:/Users/lenna/VSCode Projekte/Wissensklub Lehrpläne Mathe/Wissensklub-Lehrpl-ne-Mathe/Gymnasium/Klasse 6/Lernstandsübersicht_Klasse_6.tex"
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
@@ -502,8 +502,8 @@ File: l3backend-luatex.def 2023-03-30 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count298
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box72
-) (./Lernstandsübersicht_Klasse_5.aux)
-\openout1 = Lernstandsübersicht_Klasse_5.aux
+) (./Lernstandsübersicht_Klasse_6.aux)
+\openout1 = Lernstandsübersicht_Klasse_6.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -587,17 +587,17 @@ Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 51.
  [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<../..//Wissensklub-Logo.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 File: ../..//Wissensklub-Logo.png Graphic file (type png)
 <use ../..//Wissensklub-Logo.png>
-Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 83.
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 101.
 (luatex.def)             Requested size: 32.58388pt x 36.0pt.
 
 
@@ -610,7 +610,7 @@ Package fancyhdr Warning: \headheight is too small (36.61pt):
 [1]
 File: ../..//Wissensklub-Logo.png Graphic file (type png)
 <use ../..//Wissensklub-Logo.png>
-Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 108.
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 105.
 (luatex.def)             Requested size: 32.58388pt x 36.0pt.
 
 
@@ -623,7 +623,7 @@ Package fancyhdr Warning: \headheight is too small (36.61pt):
 [2]
 File: ../..//Wissensklub-Logo.png Graphic file (type png)
 <use ../..//Wissensklub-Logo.png>
-Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 141.
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 138.
 (luatex.def)             Requested size: 32.58388pt x 36.0pt.
 
 
@@ -636,7 +636,7 @@ Package fancyhdr Warning: \headheight is too small (36.61pt):
 [3]
 File: ../..//Wissensklub-Logo.png Graphic file (type png)
 <use ../..//Wissensklub-Logo.png>
-Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 141.
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 178.
 (luatex.def)             Requested size: 32.58388pt x 36.0pt.
 
 
@@ -649,7 +649,7 @@ Package fancyhdr Warning: \headheight is too small (36.61pt):
 [4]
 File: ../..//Wissensklub-Logo.png Graphic file (type png)
 <use ../..//Wissensklub-Logo.png>
-Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 171.
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 182.
 (luatex.def)             Requested size: 32.58388pt x 36.0pt.
 
 
@@ -660,9 +660,23 @@ Package fancyhdr Warning: \headheight is too small (36.61pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.99004pt}.
 
 [5]
+Missing character: There is no ° (U+00B0) in font cmr10!
+Missing character: There is no ° (U+00B0) in font cmr10!
 File: ../..//Wissensklub-Logo.png Graphic file (type png)
 <use ../..//Wissensklub-Logo.png>
-Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 202.
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 220.
+(luatex.def)             Requested size: 32.58388pt x 36.0pt.
+
+Package fancyhdr Warning: \headheight is too small (36.61pt): 
+(fancyhdr)                Make it at least 39.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{39.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.99004pt}.
+
+[6]
+File: ../..//Wissensklub-Logo.png Graphic file (type png)
+<use ../..//Wissensklub-Logo.png>
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 220.
 (luatex.def)             Requested size: 32.58388pt x 36.0pt.
 
 
@@ -672,22 +686,48 @@ Package fancyhdr Warning: \headheight is too small (36.61pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.99004pt}.
 
-[6] (./Lernstandsübersicht_Klasse_5.aux))
+[7]
+Missing character: There is no ° (U+00B0) in font cmr10!
+File: ../..//Wissensklub-Logo.png Graphic file (type png)
+<use ../..//Wissensklub-Logo.png>
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 249.
+(luatex.def)             Requested size: 32.58388pt x 36.0pt.
+
+Package fancyhdr Warning: \headheight is too small (36.61pt): 
+(fancyhdr)                Make it at least 39.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{39.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.99004pt}.
+
+[8]
+File: ../..//Wissensklub-Logo.png Graphic file (type png)
+<use ../..//Wissensklub-Logo.png>
+Package luatex.def Info: ../..//Wissensklub-Logo.png  used on input line 263.
+(luatex.def)             Requested size: 32.58388pt x 36.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (36.61pt): 
+(fancyhdr)                Make it at least 39.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{39.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.99004pt}.
+
+[9] (./Lernstandsübersicht_Klasse_6.aux))
 
 Here is how much of LuaTeX's memory you used:
- 17837 strings out of 478278
+ 17855 strings out of 478278
  100000,1977958 words of node,token memory allocated
- 554 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 14 attribute, 55 glue_spec, 9 attribute_list, 2 write nodes
-   avail lists: 2:838,3:329,4:24,5:496,6:54,7:7034,8:2,9:262,10:7,11:775
+ 548 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 12 attribute, 55 glue_spec, 8 attribute_list, 2 write nodes
+   avail lists: 2:808,3:323,4:32,5:562,6:51,7:9033,8:30,9:306,10:23,11:1024
  37376 multiletter control sequences out of 65536+600000
  45 fonts using 3420239 bytes
  100i,17n,98p,539b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditalic.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on Lernstandsübersicht_Klasse_5.pdf (7 pages, 220773 bytes).
+<c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditalic.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Lernstandsübersicht_Klasse_6.pdf (10 pages, 233642 bytes).
 
-PDF statistics: 99 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
